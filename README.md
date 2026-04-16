@@ -1,5 +1,5 @@
 # Inventory Management System (C# Console Application)
-└── README.md
+
 ```
 
 ## Technologies Used
@@ -53,4 +53,6 @@ dotnet run
 - Internship Resume Projects
 
 ## License
+```
 Free to use for learning and educational purposes.
+```
